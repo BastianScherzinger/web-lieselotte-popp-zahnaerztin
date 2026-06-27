@@ -1,0 +1,72 @@
+{
+  "site_name": "Lieselotte Popp Zahnärztin",
+  "branche": "Zahnarzt",
+  "stadt": "Vaihingen an der Enz",
+  "telefon": "",
+  "email": "",
+  "adresse": "Marktplatz 17 71665 Vaihingen",
+  "akzent": "#FFD700",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Zahnärztin für Vaihingen",
+  "subline": "Professionelle Zahnbehandlung in Ihrem Viertel.",
+  "ueber_titel": "Lieselotte Popp - Zuverlässige Zahnärztin",
+  "ueber_text": "Dr. Lieselotte Popp bietet Ihnen als erfahrene Zahnärztin individuelle und hochwertige Behandlungen in Vaihingen an der Enz.",
+  "leistungen": [
+    {
+      "titel": "Zahnbehandlung",
+      "text": "Schnelle und schmerzfreie Behandlung."
+    },
+    {
+      "titel": "Prophylaxe",
+      "text": "Regelmäßige Kontrollen für gesunde Zähne."
+    },
+    {
+      "titel": "Kinderzahnmedizin",
+      "text": "Angenehme Ersterkontakte für Kinder."
+    },
+    {
+      "titel": "Implantate",
+      "text": "Stabile und natürliche Ersatzzähne."
+    }
+  ],
+  "cta_text": "Termin vereinbaren",
+  "seo_title": "Lieselotte Popp Zahnärztin Vaihingen",
+  "seo_desc": "Zuverlässige Zahnbehandlung in Vaihingen an der Enz. Termin vereinbaren bei Dr. Lieselotte Popp.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "zahnarzt.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Professionelle Zahnreinigung",
+        "ab": 80,
+        "bis": 150
+      },
+      {
+        "name": "Bleaching",
+        "ab": 300,
+        "bis": 700
+      },
+      {
+        "name": "Implantat (Richtwert)",
+        "ab": 1800,
+        "bis": 3500
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Poppins",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true,
+  "hero_refresh_version": 7
+}
